@@ -1,7 +1,5 @@
 # Text Summarization
 
-<hr>
-
 ***Automatic Text Summarization*** is the process of shortening a text document using the deep learning methods. More specifically we will use a seq2seq model for this purpose. This model is widely used in industry today. Search engines are an example. Others include summarization of documents, image collections and videos. 
 
 <img width="600px" src="assets/intro.png">
